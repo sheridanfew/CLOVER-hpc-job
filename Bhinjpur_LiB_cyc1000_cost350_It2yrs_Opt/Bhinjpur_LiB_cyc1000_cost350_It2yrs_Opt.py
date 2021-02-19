@@ -25,8 +25,8 @@ optimisation_inputs=[
 ['Iteration length',2],
 ['Threshold value',0.05],
 ['Threshold criterion','Blackouts'],
-['PV size (min)',0.0],['PV size (max)',2*18],['PV size (step)',18/10],['PV size (increase)',18/2],
-['Storage size (min)',0.0],['Storage size (max)',2*73],['Storage size (step)',73/20],['Storage size (increase)',73/2]
+['PV size (min)',0.0],['PV size (max)',2*18],['PV size (step)',18/3],['PV size (increase)',18/2],
+['Storage size (min)',0.0],['Storage size (max)',2*73],['Storage size (step)',73/5],['Storage size (increase)',73/2]
 ],
 finance_inputs=[
 ['Storage cost',350],
